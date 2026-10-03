@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Jaymee317/hackathon_drivescore.git
    cd hackathon_drivescore
    ```
 
